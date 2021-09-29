@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,17 +6,34 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] float moveSpeed = 10f;
+    [SerializeField] Rigidbody rb;
+    float xvalue;
+    float zvalue;
 
     // Start is called before the first frame update
     void Start()
     {
+        rb = GetComponent<Rigidbody>();
+
         PlayerIntructions();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        HandleInput();
+    }
+
+    void FixedUpdate()
+    {
         MovePlayer();
+    }
+
+    void HandleInput()
+    {
+        xvalue = Input.GetAxis("Horizontal") * moveSpeed;
+        zvalue = Input.GetAxis("Vertical") * moveSpeed;
     }
 
     void PlayerIntructions()
@@ -27,9 +45,10 @@ public class PlayerMovement : MonoBehaviour
 
     void MovePlayer()
     {
-        float xvalue = Input.GetAxis("Horizontal") * Time.deltaTime * moveSpeed;
-        float zvalue = Input.GetAxis("Vertical") * Time.deltaTime * moveSpeed;
 
-        transform.Translate(xvalue, 0, zvalue);
+        rb.velocity = new Vector3(xvalue, 0, zvalue);
+        
+
+        //transform.Translate(xvalue, 0, zvalue);
     }
 }

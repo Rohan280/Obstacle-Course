@@ -298,11 +298,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalScale.z
-      value: 4.249551
+      value: 5.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.3589163
+      value: -3.92
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.y
@@ -310,7 +310,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -73.4227
+      value: -72.74
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalRotation.w
@@ -343,10 +343,6 @@ PrefabInstance:
     - target: {fileID: 7816265076846922917, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_Name
       value: Spinner (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7816265076846922943, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
-      propertyPath: spinSpeed
-      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
@@ -1799,11 +1795,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.7503
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -23.447788
+      value: -21.947788
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1811,7 +1807,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -82.04988
+      value: -82.29988
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1844,10 +1840,6 @@ PrefabInstance:
     - target: {fileID: 7816265076846922917, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_Name
       value: Spinner (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7816265076846922943, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
-      propertyPath: spinSpeed
-      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
@@ -2168,7 +2160,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.46174863, y: 0, z: 0, w: 0.8870109}
-  m_LocalPosition: {x: -13.76903, y: 9.560447, z: -22.70009}
+  m_LocalPosition: {x: -13.769034, y: 9.560447, z: -22.70009}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2236,7 +2228,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.7503
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2248,7 +2240,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -79.79988
+      value: -81.29988
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2281,10 +2273,6 @@ PrefabInstance:
     - target: {fileID: 7816265076846922917, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_Name
       value: Spinner (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7816265076846922943, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
-      propertyPath: spinSpeed
-      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
@@ -2348,7 +2336,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1053949692}
   m_LocalRotation: {x: 0.46174863, y: 0, z: 0, w: 0.8870109}
-  m_LocalPosition: {x: -13.76903, y: 9.560447, z: -22.70009}
+  m_LocalPosition: {x: -13.769034, y: 9.560447, z: -22.70009}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1749431589}
@@ -2651,12 +2639,16 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.7503
+      value: 2.9996214
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -27.447788
+      value: -27.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2664,7 +2656,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -82.04988
+      value: -81.45
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2697,10 +2689,6 @@ PrefabInstance:
     - target: {fileID: 7816265076846922917, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_Name
       value: Spinner (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7816265076846922943, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
-      propertyPath: spinSpeed
-      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
@@ -3466,7 +3454,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.2504
+      value: 5.2496
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3478,7 +3466,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -65.1103
+      value: -66.4853
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3511,10 +3499,6 @@ PrefabInstance:
     - target: {fileID: 7816265076846922917, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_Name
       value: Spinner (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7816265076846922943, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
-      propertyPath: spinSpeed
-      value: 250
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
@@ -3934,12 +3918,8 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalScale.z
-      value: 4.2496
+      value: 4.49995
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3951,7 +3931,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -90.02447
+      value: -89.77447
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3984,10 +3964,6 @@ PrefabInstance:
     - target: {fileID: 7816265076846922917, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_Name
       value: Spinner (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7816265076846922943, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
-      propertyPath: spinSpeed
-      value: 150
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
@@ -4794,6 +4770,11 @@ Transform:
   m_Father: {fileID: 174463928}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1973105188 stripped
+Rigidbody:
+  m_CorrespondingSourceObject: {fileID: 4690654134702993139, guid: 3b58f5bf8a692a74e8c084fb54204f38, type: 3}
+  m_PrefabInstance: {fileID: 4690654135008086105}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1982497458 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
@@ -5115,6 +5096,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4690654134702993148, guid: 3b58f5bf8a692a74e8c084fb54204f38, type: 3}
+      propertyPath: rb
+      value: 
+      objectReference: {fileID: 1973105188}
     - target: {fileID: 4690654134702993149, guid: 3b58f5bf8a692a74e8c084fb54204f38, type: 3}
       propertyPath: m_Name
       value: Player
@@ -5268,11 +5253,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalScale.z
-      value: 7
+      value: 6.7504
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -25.947784
+      value: -25.62
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5280,7 +5265,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -72.92488
+      value: -72.32
       objectReference: {fileID: 0}
     - target: {fileID: 7816265076846922913, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5313,10 +5298,6 @@ PrefabInstance:
     - target: {fileID: 7816265076846922917, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
       propertyPath: m_Name
       value: Spinner
-      objectReference: {fileID: 0}
-    - target: {fileID: 7816265076846922943, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
-      propertyPath: spinSpeed
-      value: 150
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48ffb252358e17243b3b85e79b9beeff, type: 3}
